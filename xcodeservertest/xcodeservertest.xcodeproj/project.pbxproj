@@ -397,10 +397,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Colin Fry (HQ8BK6ATZU)";
 				INFOPLIST_FILE = xcodeservertest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.apps.cf.xcodeservertest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "dd045507-acd9-46b7-b73b-1e18a3f6c6dc";
 			};
 			name = Debug;
 		};
@@ -408,10 +410,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Colin Fry (HQ8BK6ATZU)";
 				INFOPLIST_FILE = xcodeservertest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.apps.cf.xcodeservertest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "dd045507-acd9-46b7-b73b-1e18a3f6c6dc";
 			};
 			name = Release;
 		};
