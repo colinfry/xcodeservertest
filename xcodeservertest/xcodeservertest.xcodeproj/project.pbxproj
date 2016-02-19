@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					D4A02C401C7760DF007EE4CB = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = LKKF938Q95;
 					};
 					D4A02C541C7760DF007EE4CB = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -397,7 +398,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Colin Fry (HQ8BK6ATZU)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = xcodeservertest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.apps.cf.xcodeservertest;
@@ -410,7 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Colin Fry (HQ8BK6ATZU)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				INFOPLIST_FILE = xcodeservertest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.apps.cf.xcodeservertest;
@@ -486,6 +487,7 @@
 				D4A02C6B1C7760DF007EE4CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D4A02C6C1C7760DF007EE4CB /* Build configuration list for PBXNativeTarget "xcodeservertestTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +496,7 @@
 				D4A02C6E1C7760DF007EE4CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D4A02C6F1C7760DF007EE4CB /* Build configuration list for PBXNativeTarget "xcodeservertestUITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +505,7 @@
 				D4A02C711C7760DF007EE4CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
